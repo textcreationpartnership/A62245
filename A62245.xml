@@ -1,0 +1,1381 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fortunatus's looking-glass; or An essay upon lotteries In a dialogue between Jack and Harry, wherein are discovered the intrigues of lotteries in general, and the great advantage the undertakers reap by them; more particularly the extravagant profit of some of them now on foot: with other remarkable passages in several of their proposals. Colleted, and calculated for the good of the publick.</title>
+            <author>Saunders, Tib.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62245</idno>
+            <idno type="STC">Wing S757B</idno>
+            <idno type="STC">ESTC R220030</idno>
+            <idno type="EEBO-CITATION">99831468</idno>
+            <idno type="PROQUEST">99831468</idno>
+            <idno type="VID">35931</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62245)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35931)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2097:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Fortunatus's looking-glass; or An essay upon lotteries In a dialogue between Jack and Harry, wherein are discovered the intrigues of lotteries in general, and the great advantage the undertakers reap by them; more particularly the extravagant profit of some of them now on foot: with other remarkable passages in several of their proposals. Colleted, and calculated for the good of the publick.</title>
+                  <author>Saunders, Tib.</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for A. Baldwin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCIX. [1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The epistle" signed: Tib. Saunders.</note>
+                  <note>Caption title on p. 1 reads: A dialogue between a citizen and a country-farmer of Hatfield, concerning lotteries, under the names of Jack and Harry over a dish of coffee.</note>
+                  <note>Note: pp. 26-27 of the British Library copy were not filmed.</note>
+                  <note>Copy stained; pp. 26-27 not filmed.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lotteries --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35931:1" rendition="simple:additions"/>
+            <p>
+               <hi>Fortunatus</hi>'s Looking-Glaſs; OR, AN ESSAY UPON LOTTERIES.</p>
+            <p>IN A Dialogue between <hi>Jack</hi> and <hi>Harry,</hi> wherein are diſcovered the Intrigues of Lotteries in general, and the great Advantage the Un<g ref="char:EOLhyphen"/>dertakers reap by them; more particularly the extravagant Profit of ſome of them now on foot: with other remarkable Paſ<g ref="char:EOLhyphen"/>ſages in ſeveral of their Propoſals.</p>
+            <p>
+               <hi>Collected, and Calculated for the good of the Publick.</hi>
+            </p>
+            <q>
+               <l>Dame Fortune, like falſe Looking-Glaſſes,</l>
+               <l>Repreſenting ugly Faces,</l>
+               <l>As fine, and clear as any are,</l>
+               <l>Shews nothing but a Chance that's fair.</l>
+               <l>But if you venture much ſhe nicks ye,</l>
+               <l>And ten to one but that ſhe tricks ye.</l>
+               <bibl>
+                  <hi>Hudibras, p. 4.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>A. Baldwin,</hi> MDCXCIX.</p>
+            <pb facs="tcp:35931:2" rendition="simple:additions"/>
+            <pb facs="tcp:35931:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:35931:3"/>
+            <pb facs="tcp:35931:3"/>
+            <head>THE EPISTLE.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>THis Age ſo abounds with Projects, and new De<g ref="char:EOLhyphen"/>vices for getting Money, that the Commonalty are almoſt mad, if they are not got in one Lottery or other to venture their Fortunes, every one (like every little Prieſt of the Church of <hi>Rome,</hi> expecting to be a Pope, or a Cardinal at leaſt) hoping no leſs then a <hi>1000 <abbr>l.</abbr>
+               </hi> will fall to his ſhare; not giving themſelves leave to think of the great Diſadvantages they muſt of neceſſity meet with in theſe Attempts, by the vaſt Advantages every Undertaker propoſes to himſelf. Witneſs the Two-Penny Lottery, call'd the <hi>New Wheel of Fortune,</hi> which the common People run mad for for no other reaſon, but becauſe there is two Prizes of <hi>1000 <abbr>l.</abbr>
+               </hi> each to be had for <hi>2 <abbr>d.</abbr>
+               </hi> a-piece. But I refer the Reader to the following Treatiſe, by which he will find that for every <hi>20 <abbr>s.</abbr>
+               </hi> the Ad<g ref="char:EOLhyphen"/>venturers brings into that Lottery, they are to have but <hi>13 <abbr>s.</abbr> 9 <abbr>d.</abbr>
+               </hi> repaid them; for the Undertakers keep <hi>6 <abbr>s.</abbr> 3 <abbr>d.</abbr>
+               </hi> out of it for their Charges, <hi>&amp;c.</hi> And ſo by the Twelve-Penny
+<pb facs="tcp:35931:4"/>Lottery, called the <hi>Honourable Undertaking;</hi> the Under<g ref="char:EOLhyphen"/>takers propoſe to keep <hi>6 <abbr>s.</abbr> 8 <abbr>d.</abbr>
+               </hi> in every <hi>20 <abbr>s.</abbr>
+               </hi> adventured, and pay <hi>13 <abbr>s.</abbr> 4 <abbr>d.</abbr>
+               </hi> to the Adventurers. And ſo by the Six-Penny Lottery, called the <hi>Trible Chance,</hi> which gets <hi>5 <abbr>s.</abbr>
+               </hi> in Money, and at leaſt <hi>2 <abbr>s.</abbr>
+               </hi> in Goods out of every <hi>20 <abbr>s.</abbr>
+               </hi> ad<g ref="char:EOLhyphen"/>ventured with them, and pays <hi>13 <abbr>s.</abbr>
+               </hi> to the Adventurers; and for others, I refer the Reader to this little Treatiſe, in which I have at large pointed out and calculated their Gains, and cannot perſwade my ſelf but that when your Eyes are opened and ſee other Lotteries which get but <hi>3 <abbr>s.</abbr>
+               </hi> or <hi>4 <abbr>s.</abbr>
+               </hi> in <hi>20 <abbr>s.</abbr>
+               </hi> and pay <hi>16</hi> or <hi>17 <abbr>s.</abbr>
+               </hi> to the Adventurers, with all other things fair and an<g ref="char:EOLhyphen"/>ſwerable beſides; that he will do better than to venture his Money upon thoſe unreaſonable and unconſcionable Terms:</p>
+            <p>I took this Method by way of Dialogue, as being moſt rea<g ref="char:EOLhyphen"/>dily and eaſieſt to be underſtood by the Vulgar, and by ſo doing I have made this ſhort Eſſay partly jocular and partly ſerious, with Matter of Fact for the Readers better Information in this New Trade, ſo much crep't in among us of late; which if it anſwers but the ends of diverting you on the one Hand, or the edifying your Judgment on the other, that you may work more carefully and cautiouſly in theſe Affairs, for the future; it will be much to the Satisfaction of</p>
+            <closer>
+               <signed>Yours <hi>TIB. SAUNDERS.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:35931:4"/>
+            <div type="dialogue">
+               <head>A Dialogue between a Citizen and a Country-Farmer of <hi>Hatfield,</hi> concerning Lotteries, under the Names of <hi>Jack</hi> and <hi>Harry</hi> over a Diſh of Coffee.</head>
+               <sp>
+                  <speaker>Jack.</speaker>
+                  <p>VVEll met Country-man, a good Morning to you; how does all our Friends in <hi>Hertford-ſhire?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Harry.</speaker>
+                  <p>In troth Cit you ask me a hard Queſtion, for I never was in half the County in all my Life, tho I live in one part of it.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>When I ſpeak of <hi>Hertford-ſhire,</hi> I mean <hi>Hatfield</hi> from whence you came.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>That's ſomething like, for I can ſoon anſwer you to that; <hi>Never Better.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Prethee how do you mean, <hi>Never Better,</hi> when there is ſuch dull Trading and hard Times?</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Ay but Cit, we at <hi>Hatfield</hi> have got a new Trade, that the Profit of an <hi>Eaſt-India</hi> Voyage is a Jeſt to ours.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>What ſort of an Improvement have you got in your Country more than in others?</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>You a Citizen and don't know that; one of our Town at <hi>Hatfield</hi> made a greater return of Profit at home in proportion, than the Duke of <hi>Albermarle</hi> did that upon his Rack-Voyage a<g ref="char:EOLhyphen"/>broad, and even out-did <hi>Whittington</hi> with his Cat; and when you talk of an <hi>Eaſt-India</hi> Voyage to our <hi>Hatfield</hi> Merchant-Adventure, you leſſen us extreamly; for <hi>India</hi> ought not to be named that Day as <hi>Hatfield</hi> is.</p>
+               </sp>
+               <pb n="2" facs="tcp:35931:5"/>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Dear <hi>Harry</hi> put me out of my pain, for all you have ſaid to me, is ſuch an amuſement that I ſtand agaſt, therefore let me know what it is.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Why then I'll tell you. That <hi>Tom Houghton.</hi> Foot-Boy to Dr. <hi>Fuller</hi> of our Town hath got a Thouſand Pound for one Penny, put into a Lottery called the <hi>Wheel of Fortune;</hi> and now I think our <hi>Hatfield</hi>-Adventurer hath outdone all you <hi>London</hi>-Merchant Adventurers.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>I percieve now what you mean, it is about Lotteries; but what is all this to the whole Town of <hi>Hatfield?</hi> One Man's good Fortune cannot have effect upon a whole Town.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>We in the Country are not like your Citizens, to keep all your good Fortune to your ſelves, for there is honeſt <hi>Tom Houghton,</hi> out of his Penny-Adventure treats all the young Boys and Girls in the whole Town with Cakes, and Ale good ſtore, and Wine too into the bargain; ſends for Muſick, and dances all Weathers in my Neighbour <hi>Hony-Suckle</hi>'s Barn, and makes good two Proverbs at once; <hi>They are as merry as the Maids,</hi> or <hi>as they Day is long:</hi> beſides which the Bells proclaim his good Fortune and Well-wiſhes to his Country, nor does the Fidlers and Ringers go unrewarded but taſte of his boun<g ref="char:EOLhyphen"/>teous Fortune. So now I think I have made good that firſt Anſwer; <hi>Never Better.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>In good Faith this is a pretty Trade indeed, but I hope you do not think that <hi>Hatfield</hi> muſt always be the Fortunate Town; it's well if <hi>Hatfield</hi> do not pay for it at laſt, as well as the Merchant-Adventures of <hi>London</hi> have done for that of the Duke's Rack, as you juſt before was talking of.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Prethee Cit how can that be? We ſtake but a ſmall matter and have a great profit, but the Rack-Merchants can<g ref="char:EOLhyphen"/>not try their Fortune under 500 <abbr>
+                        <hi>l.</hi>
+                     </abbr> or a 1000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and that's up<g ref="char:EOLhyphen"/>on one ſingle Ticket which is more odds it comes up blank, than there was in my Neighbour <hi>Houghton</hi>'s Wheel of For<g ref="char:EOLhyphen"/>tune, tho 1680 to one againſt any Prize, and 1—600—000 to 1 againſt the 1000 <abbr>
+                        <hi>l.</hi>
+                     </abbr>
+                  </p>
+               </sp>
+               <pb n="3" facs="tcp:35931:5"/>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Ay but ſuch another Rack would make half a-ſcore Merchants good Eſtates to live upon all days of their Lives.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>So I think is a 1000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> for a Foot-Boy.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>It's true, for a Foot-Boy it is very conſiderable, and will be his making if he don't dance too much, <hi>&amp;c.</hi> at your Neigh<g ref="char:EOLhyphen"/>bour <hi>Hony-Suckle</hi>'s Barn; but 1000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> to a good Country Yeo<g ref="char:EOLhyphen"/>man is not ſuch a matter, it will only ſerve for a Portion for one of his Daughters.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>It's ſtrange that you <hi>Londoners</hi> ſhould be ſo dull of Ap<g ref="char:EOLhyphen"/>prehenſion: why Couſen <hi>Jack,</hi> I'll tell thee, that one Load of Hay I brought to Town with me will get an Eſtate of a 1000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> a Year for my eldeſt Son, and good Portions for all the reſt of my Boys and Girls.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>In good Faith you have hit upon a pretty Name; for we <hi>Londoners</hi> are damned Couſeners ſometimes; and therefore Couſen and Country-man I adviſe you take care of your Load of Hay.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Let me alone for that, for I will adventure in them all more or leſs, that I ſhall ſtand fair for my ſhare of the 1000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> a Year in the Land Lottery, my Coach and Horſes with my Country-Houſe, Gold Watch, Diamond Ring, Hats, Head-Dreſſes, Morning Gowns, Cabinets and Scrutores, and the Devil knows what; in others abundance of ready Money Prizes, of 3000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 2000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 1500 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 1000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and a Multitude of 500 Pounds; and if this Load of Hay is not enough to do all this, next Week I will bring up another to Market. And—</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Hold, hold, you run to faſt dear Couſen <hi>Harry,</hi> take one Word by the way, when your Lotteries are drawn, and all your Tickets come up blank; how then will you look?</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Look, how then ſhould I look?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Why I'll tell you; you will make good and old Proverb, or one of our <hi>London</hi> Sayings; that you will <hi>look like one that ſold his Hay at Market and took no Money for it.</hi> —That is very ſheepiſh.</p>
+               </sp>
+               <pb n="4" facs="tcp:35931:6"/>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>How do you mean took no Money for it.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>It's the ſame thing to take no Money for it, or when you have, to fool it away in Lotteries.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Prethee Cit which are the moſt Fools? The <hi>London</hi> Rack-Adventurers who ſeek for a Needle in a Bottle of Hay, and at laſt there is none there, or we Lottery-Adventures that are ſure of the Needle, and that ſome of the Adventurers muſt find it.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>So far Country-man I think you in the right, that there is ſome great Prizes in all Lotteries, and ſome Perſon muſt have them; and in the Rack-Affair there may and may not be any Prize at all.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>I am very glad I have gained that Point of you; and in the next Place pray give me your Opinion of Lotteries in general, and what the Town ſays of them.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Ay, now you come to the Point, and ſeem to ask a rea<g ref="char:EOLhyphen"/>ſonable Queſtion, to which I will give you a ſhort and flat. Anſwer: Why the Town ſays they are all Shams, or at beſt raiſing an Immenſe Profit to the Undertakers from you Coun<g ref="char:EOLhyphen"/>try Fools, for let one get tolerably by it, I am ſure a thouſand Perſons muſt looſe; for the Undertakers will take care of themſelves to come off free from a ſcratch'd face of their Char<g ref="char:EOLhyphen"/>ges and Profit, whatever they do in their Reputations.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>But ſince the Undertakers you call them get certainly by it, I queſtion not but ſome get more than others, juſt as their Conſcience ſerves them, being their own Carvers out of their Profit.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Nay now Countryman you have hit it, Conſcience in a Lottery-man is like that of a Whores never ſatisfied.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>When I ſpeak of Conſcience, Cit, I mean ſome of them have modelled their Lotteries upon better and more eaſier Terms than others, therefore I deſire to know which are the beſt, faireſt, and moſt advantageous to the Adventurer.</p>
+               </sp>
+               <pb n="5" facs="tcp:35931:6"/>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>That I'll reſolve you by a viſible Demonſtration, but that will be a work of ſome time; therefore what think you of a Diſh of Coffee, and there peradventure we may find all or moſt of the Lottery-Papers, and we will compare them toge<g ref="char:EOLhyphen"/>ther.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>With all my Heart, let us croſs over <hi>Smithfield</hi>-Rounds to <hi>Yates</hi>'s Coffee-houſe, where my Neighbour <hi>Houghton</hi> took out his Penny Ticket that got the Thouſand Pound, for I de<g ref="char:EOLhyphen"/>ſign to take mine out of that Fortunate Houſe.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>To <hi>Yates</hi>'s by conſent; but I think your Reaſons above are Superſtition and Popery all over.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Countryman, and almoſt Townſman, give me leave to give you a Mornings Draft; Here Boy, Coffee, or what elſe you pleaſe Sir.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Countryman, I thank you, Coffee is beſt, for that is a ſober Liquor fit for a ſober Debate: we are juſt going to enter upon to diſcern and diſtinguiſh clearly amongſt a parcel of Ca<g ref="char:EOLhyphen"/>nary-Birds, which ſings beſt and is the moſt Harmonious.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Well, Sir, to the Point in hand downright, which is the beſt for me to venture my Money in?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Truly I have made a Calculation on moſt or all of them, and I have ſeen ſuch a prodigious advantage to all the Under<g ref="char:EOLhyphen"/>takers, that my advice is to venture your Money in none of them, but carry home your Money, and add a Quarter of Malt to your next Brewing, to make Humming Liquor, and I will come in <hi>Whitſon</hi>-Holydays and drink part of it my ſelf, with ſome other brave Lads in our Country; by which means I doubt not but that you will be as famous and as much talked of for your Noble Liquor, as your Neighbour <hi>Houghton</hi> is now with his fooliſh Lottery-Pence.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>But I am reſolved to venture ſome Money, and pray be ſhort in the matter, and tell me your Opinion, which Lottery is the beſt now on Foot.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>I will anſwer as ſhort as you deſire, it is the <hi>Ladies In<g ref="char:EOLhyphen"/>vention, a Six-Penny Lottery.</hi>
+                  </p>
+               </sp>
+               <pb n="6" facs="tcp:35931:7"/>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>I'll take you at your Word and challenge your Promiſe of giving me a viſible Demonſtration which is beſt to the Ad<g ref="char:EOLhyphen"/>venturer.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>That I will do, and begin with the <hi>Ladies Invention,</hi> and lay before you what they receive by the Tickets, and what they pay by the Prizes in their own Propoſals, by which means you will ſoon ſee what they get, provided they can get to draw it compleatly full.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>I like your Method; pray proceed.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>When this is done, I will go forward in the ſame man<g ref="char:EOLhyphen"/>ner with all the reſt, and ſtill as I go forwards, the Six-penny Lottery called the <hi>Ladies Invention</hi> ſhall be the Standard to try all the reſt by.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>I thank you Sir, this manner of proceeding will be a help and a guide to me for my Government in this Affair.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Now countryman take notice that the <hi>Ladies Invention</hi> Lottery is compoſed of 500000 Tickets at Six-Pence each, which makes 12500 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and the Proprietors draw 3555 Prizes, which does amount to 9950 <abbr>
+                        <hi>l.</hi>
+                     </abbr> ſo that thoſe pretty young Ladies Proprietors of this Lottery will get 2550 <abbr>
+                        <hi>l.</hi>
+                     </abbr> either to buy them<g ref="char:EOLhyphen"/>ſelves fine Clothes, or help get them Husbands by the aſſiſtance of Fools Pence.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Indeed it is a great Profit, but their Charge is great.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>That's true, but ſtill it is out of your own Money, and they do but abate it out of their great Profit; and they ſtill make you but the Fool of the Play.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>But by your Favour; you tell me there is 2550 <abbr>
+                        <hi>l.</hi>
+                     </abbr> ſhort paid to the Adventurers of their Money paid into the Under<g ref="char:EOLhyphen"/>takers as their profit; pray what is that in the Pound rate, that being eaſieſt to be underſtood by my weak Capacity.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Why then, it is 4 <abbr>
+                        <hi>s.</hi>
+                     </abbr> in the Pound and a little more, not quite a Penny.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Pray what odds of Blanks to a Prize, and your opinion upon that Head?</p>
+               </sp>
+               <pb n="7" facs="tcp:35931:7"/>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>There is 3555 Prizes drawn againſt 500000 Number'd Tickets, which is 140 Blanks to one Prize; but I acknowledg there is abundance of Midling Prizes, as 150 Ten Pounds, 300 Five Pounds, 600 Three Pounds and Two Pounds: which is pretty good advantage for 6 <abbr>
+                        <hi>d.</hi>
+                     </abbr> if you are ſo fortunate to have your Number'd Tickets come up againſt them.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>I thank you Sir, you have given me a great inſight in theſe Affairs, pray your Opinion of the Twelve-penny Lottery called <hi>the Honourable <g ref="char:V">Ʋ</g>ndertaking, or five Hundred Pound for a Shilling; with the Permiſſion of Authority.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>You have now pitch'd upon a very pretty Lottery, a no<g ref="char:EOLhyphen"/>ble Title indeed; <hi>The Honourable <g ref="char:V">Ʋ</g>ndertaking, or</hi> 500 <abbr>l.</abbr> 
+                     <hi>for</hi> 12<abbr>
+                        <hi>d.</hi>
+                     </abbr> Nay <hi>with Permiſſion of Authority.</hi> Truly, I know no Authority they have more than others, unleſs it be to get more in their Lottery in proportion than others do.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Pray Sir what is their profit?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Why Friend; there is an unconſcionable Profit even as large as thoſe Women we mention'd before; this <hi>Honourable Adventure</hi> puts out 90000 Tickets at 12 <abbr>
+                        <hi>d.</hi>
+                     </abbr> each, which makes 4500 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and pays 1019 Benefits amounting to 3000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> ſo that the Undertaker gets 1500 <abbr>
+                        <hi>l.</hi>
+                     </abbr> which is 6 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 8 <hi>
+                        <abbr>d.</abbr> per</hi> Pound, in every Pound adventured in their Lottery, a compleat third.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Since their Lottery is ſo much worſe than the <hi>Ladies Invention,</hi> why do they call it the <hi>Honourable <g ref="char:V">Ʋ</g>ndertaking.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>It's only a fine gloſs to put off a bad Commodity.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Pray your opinion of the Two-Penny Lottery, called <hi>The Honeſt Propoſal, or the Faireſt Adventnre, being</hi> 500 <abbr>l.</abbr> 
+                     <hi>for</hi> 2 <abbr>d.</abbr> 
+                     <hi>or</hi> 1000 <abbr>l.</abbr> 
+                     <hi>for a Shilling.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>There's ne're a Barrel better Herring among them, for this <hi>Honeſt-Propoſal,</hi> you call it, hath no more honeſty in it than the reſt, but is a fine gilt Bait to hook in the Adventu<g ref="char:EOLhyphen"/>rer, and may well be compared to gilt Pills, which the Surgeon does cover with Gold to prevent the diſcovery and taſte of the damned naſeous Bitterneſs of the inſide of them.</p>
+               </sp>
+               <pb n="8" facs="tcp:35931:8"/>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>But the Profit and Advantage to the Undertakers of this Lottery?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>You muſt take notice this Lottery gives out 480000 Number'd Tickets at 2 <abbr>
+                        <hi>d.</hi>
+                     </abbr> each, which makes 4000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and they draw 1200 Prizes, value in Money 2988 <abbr>
+                        <hi>l.</hi>
+                     </abbr> ſo that they get 1012 <abbr>
+                        <hi>l.</hi>
+                     </abbr> when full, deducting Charges.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>A pretty handſome Sum got indeed, 1012 <abbr>
+                        <hi>l.</hi>
+                     </abbr> in ſo ſmall an Adventure as 4000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> pray the odds of Blanks againſt a Prize, and what in the pound rate advantage to the Underta<g ref="char:EOLhyphen"/>kers in this?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>It is 400 Blanks to any Prize, and the Prizes very ſmall too, the Profit is 5 <abbr>
+                        <hi>s.</hi>
+                     </abbr> in the Pound, and a little more, not quite a Penny.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Then I find the <hi>Ladies Invention</hi> ſtill the beſt, and with<g ref="char:EOLhyphen"/>holds the leaſt of the Adventurers Money for the Profit of the Undertakers, which truly I think, that ought to have the Name of the <hi>Honeſt Propoſal</hi> and not this laſt.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>No doubt of it; for thoſe that draw moſt of the Adven<g ref="char:EOLhyphen"/>tures Money in Prizes they receive for Number'd Tickets, I am ſure is the Faireſt and Honeſteſt Propoſal; let them gild them over with what Name or Title they pleaſe.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>I have ſeen likewiſe another Two-Penny Lottery, inti<g ref="char:EOLhyphen"/>tuled, <hi>Two Thouſand Pounds for Two-Pence a-piece;</hi> pray the meaning of that?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Why, that is two Lots of 1000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> each; and if you can pick out them two Number'd Tickets for your Groat, and ſo likewiſe the ſame in other Lotteries, you then will make a prodigious Adventure of your Load of Hay, and out-do my Lord Duke of <hi>Albemarle</hi>'s Spaniſh-Rack; but Countryman, remember my advice in the beginning of our Diſcourſe, and take care of your Hay.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>I thank you Sir for your Remembrance; but pray what does the Undertakers get in this laſt Two-penny Lottery, ſince there is two ſuch large Prizes for two Pence a piece to be had?</p>
+               </sp>
+               <pb n="9" facs="tcp:35931:8"/>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>The Undertakers will get enough in this, and more than than the other Two-Penny Lottery in Proportion; for tho there be two high Prizes, yet there is ſo many ſmall ones of 20 <abbr>
+                        <hi>s.</hi>
+                     </abbr> each that makes it a Ballance: and my opinion is that midling Lots of 10 and 5 <abbr>
+                        <hi>l.</hi>
+                     </abbr> a-piece is the beſt way of modelling a Lottery.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Pray proceed—</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Theſe Two Thouſand Pounds for two Two-Pences; you muſt take notice they give out 960000 number'd-Tickets of 2 <abbr>
+                        <hi>d.</hi>
+                     </abbr> each, which makes 8000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and draws 2374 Prizes, a<g ref="char:EOLhyphen"/>mounting to 5500 <abbr>
+                        <hi>l.</hi>
+                     </abbr> that the Undertakers will be Gainers 2500 <abbr>
+                        <hi>l.</hi>
+                     </abbr> which after our old way of reckoning is 6 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 3 <abbr>
+                        <hi>d.</hi>
+                     </abbr> juſt, in every Pound, or 20 <abbr>
+                        <hi>s.</hi>
+                     </abbr> ventur'd in this Lottery, and above 400 Blanks to a Prize — Therefore take care of your of Hay.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>This is worſe and worſe; then the <hi>Ladies Invention</hi> ſhall have my Money: and you are much in the right in telling me that is the beſt and faireſt.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>There is ſo many now on foot, and ſwarm daily on us, that I am afraid I ſhall not have time to give you an account of all.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>I'll beg your patience but for a relation of one or two more, and then take leave and own my obligation for all your Favours; pray what think you of the Three-Penny Lottery, called the <hi>Fortunate Chance,</hi> or 1000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> for 3 <hi>
+                        <abbr>d.</abbr> with the Per<g ref="char:EOLhyphen"/>miſſion of Authority?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>I think juſt as I did before, that their Permiſſion of Au<g ref="char:EOLhyphen"/>thority is a pretty Whim, or Gloſs upon the Matter, to gull People out of their Money.—</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>I ſhall ſoon diſcern the foulneſs or fairneſs of their Ad<g ref="char:EOLhyphen"/>venture when you have given me the particulars of their Profit and Advantage, as you did in the others.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Then take norice that the Undertaker of this Lottery gives out 800000 number'd Tickets at 3 <abbr>
+                        <hi>d.</hi>
+                     </abbr> each, which makes 10000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> in Money, and he draws 2000 Prizes, which amounts in the whole to 7487 <abbr>
+                        <hi>l.</hi>
+                     </abbr> ſo that he gets 2513 <abbr>
+                        <hi>l.</hi>
+                     </abbr> which is 5 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                     <pb n="10" facs="tcp:35931:9"/>in the Pound, and a ſmall matter over, and the odds of Blanks againſt Prizes is 400 to 1.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Then I find the <hi>Ladies Invention</hi> is ſtill the beſt, and therefore I am reſolved to ſtick to that.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>But Countryman remember my Advice, and don't ſtick too cloſe to that neither; a few looſe Corns is no great harm—</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>I'll warrant you I ſhall be cautious enough now I am ſo fairly warn'd; but pray what is your opinion of the Groat-Lottery, called the <hi>Lucky Adventure,</hi> or the <hi>Fortunate Chance,</hi> being 2000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> for 4 Pence?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Why, I think he muſt be very lucky indeed that gets the 2000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> which I dare engage no Perſon ever will do.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>What Reaſon have you for that?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>To tell you the Truth of it, my opinion is it will never go forward to be drawn, for it is juſt peep'd out of the Shell, and this is not a time of day to begin to ſet up Lotteries, there is too many already, more by half than will ever be drawn either full or in part; but this Lottery can never—</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Pray out with it; give me your opinion clear of the Matter.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>I mean this Groat-Lottery can never go forward; for firſt the Undertaker puts out a little ſlip of Paper, like a Pockey Bill, wherein he ſays not one word for to induce his Adventurers to come in; in the ſecond place names no Caſheers wherein he ought to propoſe the Money ariſing ſhould be lodged, for the ſatisfaction of his Adventurers; nor thirdly, does he name any Truſtees, which ſhould be Men of ſound Credit and Reputation, and are indeed deſign'd to be Checks upon the Undertakers.—</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Then I warrant you that he deſigns to be his own Caſheer, Ay, and his own Truſtee too, that there might be no Check upon him, but left <hi>ad libertatem;</hi> that is to ſay, when he hath got all the Money he can into his Hands, if he pleaſes he may buy a Bruſh; and ſo good night Adventurers.—</p>
+               </sp>
+               <pb n="11" facs="tcp:35931:9"/>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>In troth Countryman you have hit the right Nail o'th' Head as to my opinion, for it jumps exactly with yours, and yet this deep reach'd Undertaker gets as much as the reſt, if he ſhould do things fairly and honeſtly; but I may venture to give him 5000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> for the firſt 5 <abbr>
+                        <hi>l.</hi>
+                     </abbr> he receives upon the Baſis he now goes upon: And ſo much for his Groat-Lottery.—</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Well, Sir, I ſhall trouble you but with one more, and then take my leave for this time, and that is your opinion of another 6 <abbr>
+                        <hi>d.</hi>
+                     </abbr> Lottery, called the <hi>Trible Chance,</hi> or <hi>Triple Ad<g ref="char:EOLhyphen"/>venture,</hi> or ſomething like it.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>There was both thoſe Lotteries a-foot, and both for Six-Pence; but the <hi>Triple Adventure</hi> laid his down, and deſired all his Adventurers to exchange all their Tickets for thoſe in the <hi>Ladies Invention;</hi> by which means he gets his Charges he was out of Pocket, and the Adventurers have got the advantage of exchanging their Fortune in one of the beſt Lotteries that is now extant: but for the <hi>Trible Chance,</hi> that ſtill goes forward after the old rate, a Snails Gallop. I ſuppoſe you mean that.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>I do ſo.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>The Title of that is, <hi>Three Thouſand Pound for Six-Pence,</hi> or the <hi>Treble Chance, Compoſed of</hi> 10000 <abbr>l.</abbr> 
+                     <hi>value, in a Country-Seat, Coach and Horſes, a Sute of Dreſſing-Plate, a fine Diamond-Ring, a ſtriking Gold-Watch, Morning-Gowns for Men and Women, Beaver-Hats, and Head-dreſſes, Cabinets and Scrutores,</hi> and to make up theſe things, <hi>Ten Thouſand Pounds in Money.</hi>—</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>It's the very ſame.—</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>To be ſhort with you, it is the very worſt of all the Lotteries on foot, and will admit of the greateſt Fallacies of any of them; for firſt, the Undertaker tells you it is the <hi>Faireſt and moſt Advantageous Adventure for Ten Thouſand Pound yet pub<g ref="char:EOLhyphen"/>liſhed, wherein no Fraud can be uſed;</hi> but tells you not how ma<g ref="char:EOLhyphen"/>ny number'd-Tickets of Six-pence each there ſhall be given out: So there may be a great Fallacy in that particular, and receive 20000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> inſtead of 10000 <abbr>
+                        <hi>l.</hi>
+                     </abbr>—</p>
+               </sp>
+               <pb n="12" facs="tcp:35931:10"/>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>You are really in the right of it; here is room left the Undertakers to make a great cheat upon the Adventurers, if they don't uſe a Conſcience in doing the thing that is fair and juſt.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Conſcience in a Lottery-man, as I told you before, is not to be expected: But I'll proceed, in the next place I will take it for granted that the Undertakers give out but 400000 Tickets, each at 6 <abbr>
+                        <hi>d.</hi>
+                     </abbr> which makes juſt 10000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> they propoſe to draw in Money, and thoſe fine things before-mentioned; which when valued at their own Price makes but 7535 <abbr>
+                        <hi>l.</hi>
+                     </abbr> So that they will get 2465 <abbr>
+                        <hi>l.</hi>
+                     </abbr> profit, beſides half ſo much more by their Country-houſe, Coach and Horſes, <hi>&amp;c.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Ad ſo! this is a damnable profit indeed, and muſt of conſequence be the worſt Lottery of all: I am afraid theſe are one of my Couſens you at firſt talk'd of, and bid me take care of.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Will not this fine Bait of a <hi>Country-Houſe,</hi> a <hi>Coach</hi> and <hi>Horſes,</hi> a deal of <hi>Houſhold-Plate,</hi> a <hi>Gold-Watch,</hi> and a rich <hi>Diamond-Ring</hi> for your eldeſt Daughter Mrs. <hi>Mary,</hi> gull you in for part of your Load of Hay, beſides 3000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> in Money to ſupport all this Grandeur.—</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>You have made me ſo ſenſible in theſe Affairs that I will not be gull'd, as you call it, by theſe gilded Baits.—But what profit in the Pound-rate, and what odds is there in this Lot<g ref="char:EOLhyphen"/>tery? for that is the only Method to proceed upon to ſhew the difference in Lotteries.—</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>As I told you before, they draw 7535 <abbr>
+                        <hi>l.</hi>
+                     </abbr> in Money and Goods, and receive 10000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> which is 5 <abbr>
+                        <hi>s.</hi>
+                     </abbr> in the Pound, want<g ref="char:EOLhyphen"/>ing leſs than a Penny, beſides the profit of their Goods I reckon may come to about half ſo much more; ſo that I account the whole is upwards of 7 <abbr>
+                        <hi>s.</hi>
+                     </abbr> in the Pound.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>But pray Sir, what odds of Blanks to a Prize?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>There is 1947 Prizes drawn againſt 400000 number'd-Tickets, which is a little more than 200 Blanks to a Prize; withal take notice in thoſe Prizes there is a thouſand of 1 <abbr>
+                        <hi>s.</hi>
+                     </abbr>
+                     <pb n="13" facs="tcp:35931:10"/>each, and 400 of 10 <abbr>
+                        <hi>s.</hi>
+                     </abbr> each, which will greatly counterpoiſe that ſingle 3000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Prize.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Such pittiful Prizes as thoſe, are not worth going over the Threſhold for, not Porters Labour; for my part they ſhall have none of my Money.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>I hope you are throughly ſatisfied, that as yet none of the Lotteries you have named is to be compared to that called the <hi>Ladies Invention,</hi> by a true compariſon, as I promi<g ref="char:EOLhyphen"/>ſed you at firſt to make appear.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>I acknowledg it, and am convinced in the Matter; and therefore Landlady <hi>Yates</hi> here is an Angel, give it me out in Tickets in the <hi>Ladies Invention;</hi> and the reſt of my Money I'll carry Home till we next meet.—</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>In good Faith, Countryman, you have bolted out a very pretty Word by Chance; an Angels worth of Tickets: Now if your better Guardian-Angel ſhould reign predominant thoſe days of Drawing, and direct blind Fortune on your Angel Numbers, I will ſay then that <hi>Hatfield</hi> is the moſt Fortunate Town in <hi>England.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>I heartily thank you for your good Wiſhes, and ſhall not now trouble you any further, but beg the favour to meet at this Houſe next Market-day, and renew our Conference, and go through the whole Tribe of Lotteries. —</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Agreed; and ſo Countryman I wiſh you both a good Morning and a good Journey.</p>
+               </sp>
+            </div>
+            <div type="dialogue">
+               <head>The Second Conference.</head>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>WEll met; I find you are a punctual Man to your Word.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>I always love to be ſo, and find you are not much behind me; pray what have you brought now to ſell, for I know you
+<pb n="14" facs="tcp:35931:11"/>Farmers conſtantly bring one thing or other to Market — to help fill the Bag?</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>I have brought only a ſmall Parcel of Hoggs, which (if I am not diſcouraged by you) I deſign to make an Adventure in ſome of the Lotteries.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>I can but laugh to think what two Commodities you have brought to <hi>London</hi> to turn into Lottery-Tickets; Hay and Hoggs!</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Prethee, is not the Money ariſing by them as good as any thing elſe?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Yes, no doubt of it; but it's very unlucky that thoſe two Commodities you deſign to turn into Lottery-Tickets, to raiſe an Eſtate for your eldeſt Son, and Portions for the reſt of your Children, ſhould have two ſuch odd Proverbs upon them—</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Prethee, what are they? be free in your Thoughts.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>I have told you already that about your Hay; and for that about your Hoggs, I doubt not but you have heard often in Company.—</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>No really not I, pray inform me.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Why then, after you have diſpoſed of your Hoggs, and turn'd them into Lottery-Tickets, and when drawn they come up Blank; then—</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>What then? Pray let me know what you mean?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>As the Old Proverb ſays, <hi>You will bring your Hoggs to a fine Market.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Come, come, you're a Wagg, let us have done drolling, and take up our adjourned Debate of what Lotteries now ex<g ref="char:EOLhyphen"/>tant are the beſt, and which you would adviſe me to venture my Money in.—</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>I troth, I am like the Cookow always in one Tone, the <hi>Ladies Invention:</hi> I have ſeen none yer ſo good as that, and duly weigh all Circumſtances of Lotteries.—</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Well, we'll take our former Method, and make that ſtill the Standard to try the reſt by it.—</p>
+               </sp>
+               <pb n="15" facs="tcp:35931:11"/>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Agreed; and ſo proceed to take them all in Turns, for I doubt not but you are ſo inquiſitive about Lotteries, that there is none eſcapes your knowledge.—</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Then Sir, your Opinion of the Half-Crown Lottery, intituled, with a hard Name that I cannot well tell it you, but it is ſomething about the Mathematicks?—</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>I underſtand which you mean, and the name of it is, <hi>Ludus Mathematicus,</hi> or the <hi>Mathematick Adventure, with Per<g ref="char:EOLhyphen"/>miſſion of Authority.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>The very ſame.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <hi>Ludus Mathematicus,</hi> is the <hi>Mathematick Sport;</hi> and their <hi>Permiſſion of Authority,</hi> is only to get Money as well as their Neighbours.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>I have read their Propoſals, and cannot underſtand what it is they propoſe; pleaſe to inform me their manner of Drawing: for all they write about it is perfect Logick to me.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>And ſo it is to moſt other People, for not one in a thou<g ref="char:EOLhyphen"/>ſand Perſons, I dare engage, unſterſtands what they write; and if they had intended to be underſtood by the common ſort of People, who muſt be their Adventurers, they ought, being ſo many Maſter Mathematicians (if there's any amongſt them) to have kept a School, and taught the Mathematicks in every Pariſh in the City of <hi>London,</hi> and Liberties of <hi>Weſtminſter,</hi> either by themſelves, or their Deputies, for one Year <hi>gratis,</hi> and then peradventure, by the Genius of their Schollars, and their Gratitude to their Maſters for their Charitable Learning them, they might now and then have dropt Half a Crown into their Lottery: Then, and not till then, I ſay, had been the time to ſet up their <hi>Ludus Mathematicus.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Nay indeed, it is all Gibberiſh and wild Iriſh to me, and being ſo lately ſet a-Foot, that I have not met any Perſon to give me account of it before.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>And when all's done, their <hi>Digits, Tablets,</hi> and <hi>Combi<g ref="char:EOLhyphen"/>ning-Tablets, Globes, Repoſitories, Combined-Numbers, Double,
+<pb n="16" facs="tcp:35931:12"/>Triple,</hi> and <hi>Quatruple Chances</hi> they ſo much talk of, are no more than the empty Terms of Art or Denomination of things uſed by thoſe that are Mathematicians, but are here jumbled all to<g ref="char:EOLhyphen"/>gether to confound the common ſort of Peoples Judgments.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Let them go forward with their Gibberiſh, cramp Ex<g ref="char:EOLhyphen"/>preſſions, and hard Words, as much as they will; I am ſure I underſtand Figures well enough to diſcover that theſe Underta<g ref="char:EOLhyphen"/>kers, <hi>J. N. C. H. P. E. R. P. C. C. J. W.</hi> Mathematicians, propoſe to draw in Benefit Tickets 8200 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and by their num<g ref="char:EOLhyphen"/>ber'd-Tickets propoſed to give out, they will receive 11250 <abbr>
+                        <hi>l.</hi>
+                     </abbr> ſo that they will get 3050 <abbr>
+                        <hi>l.</hi>
+                     </abbr> by bantering People out of their Sences with hard Names.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Well hit of Country-man, I find you have got their blind ſide; but more of that hereafter.—</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Pray go forward and explain to me their meaning of their <hi>Tablets,</hi> &amp;c.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>After all their hodg podg, and confounding Peoples Sences: their <hi>Tablets</hi> as they call them, are no more than ſquare pieces of Wood or Paſtboard, with a number'd Figure upon it or Cypher, as 9, 8, 7, 6, 5, 4, 3, 2, 1, 0, five of each ſort to be put into one Globe and mixt together, and the Bene<g ref="char:EOLhyphen"/>fits in another Globe as they call it, from whence is a Benefit every time taken out, and five of thoſe 50 number'd-<hi>Tablets</hi> to be taken out of the other Globe, to declare what number'd-Ticket claims that Prize, and ſo afterwards to be put in again and mixt, and ſo every draft of a Prize; and if it chance the firſt number'd-<hi>Tablet</hi> (as theſe <hi>Virtuoſo's</hi> call them) comes up a figure 9, unleſs the other 4 chance to be all Cyphers, that draft is void and gives themſelves and Spectator-Adventurers the trouble for nothing, by reaſon it muſt be above 90000, the number and quantity of the Half Crown Tickets Sold; a ve<g ref="char:EOLhyphen"/>ry mean contrivance for ſuch Learned Men to make ſuch a buſtle and noiſe with their Cramp Names and Quaint Ex<g ref="char:EOLhyphen"/>preſſions.—</p>
+               </sp>
+               <pb n="17" facs="tcp:35931:12"/>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Indeed ſo it is, a great Cry and a little Wool.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>And further I muſt acquaint you, that this manner of drawing is no more than an imitation of the Balls-Lottery, ſtolen from them: and tho theſe Learned and Juſt Mathema<g ref="char:EOLhyphen"/>ticians give out in-their Propoſals, and ſay no Fallacy can be impoſed on the Adventurers, tho the Projectors were in con<g ref="char:EOLhyphen"/>ſultation ſo to do. Which I deny, and will proceed to tell you what might be done, but I do not ſay what would be done in this infallible Lottery.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>I believe the Pope and this Lottery are infallible alike—but pray proceed.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Then take notice that theſe 50 ſingle Numbers upon Tablets, of Paſtboard, or ſuch like, are to be made in great Cha<g ref="char:EOLhyphen"/>racters, that they may be viſible to all the Company preſent, tho at never ſo great a diſtance; and ſo by taking 5 of them out of a Globe is to betoken what Number challenges that Prize: and ſo every time a Prize is drawn by a Perſon appoint<g ref="char:EOLhyphen"/>ed by the Undertakers.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Pray go forward—</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Now this Perſon being in Combination with the Under<g ref="char:EOLhyphen"/>takers, who may all of them be joint Adventurers but for 999 Tickets, and ſuppoſe they take them out from 42000 to 42999, how eaſy is it, I ſay, for that Perſon ſo imployed to take out the 5 Number'd Tablets, to pull out firſt a 4 and then a 2, and place them on his left Hand, which betoken forty two thouſand (they being large and viſible not capable of rouling up) then let the other three next Tablets be what they will it muſt be a Prize to theſe Virtuoſo-Mathematicians, and in 555 drafts of Prizes 100 of them may reaſonably come to their Shares.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>But how can they pick out a 4 and a 2?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Nothing more eaſy, for if the Figures be made ſo large to be viſible to all the Company at a diſtance, it will be no dif<g ref="char:EOLhyphen"/>ficulty to the Perſon that pulls out theſe five Tablets to pull out Figures of 4 and 2 firſt, being but 50 in all, ten whereof are
+<pb n="18" facs="tcp:35931:13"/>four's and two's, and in a twinking of an Eye take up on put by a Figure as ſhall ſerve or diſſerve theſe Mathematicians turns.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>I think it very eaſy and plain, and am ſatisfied in the matter there may be a great Fallacy uſed, notwithſtanding theſe Conjurers Aſſertion, That there can be no Fallacy in their Method, even if the Projectors were in conſultation ſo to do. And now you have made out what might be done: But we will ſuppoſe that this Lottery is carried on very fair without any Fallacy; what merit have they more than others of with-holding leſs of the Adventurers Money for themſelves, and what odds of Blanks to a Prize, and compare this with the <hi>Ladies Invention</hi> to ſee how much it falls ſhort of that?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>There is no Compariſon betwixt them, for <hi>Ludus Mathe<g ref="char:EOLhyphen"/>ticus</hi> ought not to be named the ſame day as the <hi>Ladies Inven<g ref="char:EOLhyphen"/>tion</hi> is.—</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Pray proceed to Particulars—</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Then as you hinted to me before, that by 90000 Number'd Tickets delivered out at 2 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 6 <abbr>
+                        <hi>d.</hi>
+                     </abbr> each, makes 11250 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and they propoſe to draw 8200 <abbr>
+                        <hi>l.</hi>
+                     </abbr> in Benefit Tickets: ſo that their Honeſt Profit, as it may be called, is 3050 <abbr>
+                        <hi>l.</hi>
+                     </abbr> which is 5 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 5 <abbr>
+                        <hi>d.</hi>
+                     </abbr> out of every pound adventured with them.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Prodigious Profit! ſure they need no indirect methods to get more by their Lottery, under the fallacious Title of being impoſſible to deceive the Adventurer, if the Projectors were in conſultation ſo to do. But pray to the odds?—</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Then to the odds; it is ninety thouſand to one againſt e<g ref="char:EOLhyphen"/>very ſingle Ticket you have in every Draft of their Tablets, as they call them, and 162 to one againſt every ſingle Ticket that it does not come up a Prize in the 555 Drafts to be made in Benefits.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Well, I find you in the right of it, that the <hi>Ladies In<g ref="char:EOLhyphen"/>vention</hi> is preferable to all the reſt; and there's as much diffe<g ref="char:EOLhyphen"/>rence betwixt that and this <hi>Ludus Mathematicus,</hi> as there is betwixt Light and Darkneſs.</p>
+               </sp>
+               <pb n="19" facs="tcp:35931:13"/>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Then I hope you will allow my firſt Aſſertion, that the <hi>Ladies Invention</hi> is the beſt extant for the Adventurer.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>I do ſo; and be it to their eternal Renown to nick things off, ſo much before our Sex, and break the Neck of that rude Expreſſion, (ſpeaking of things out of meaſure) <hi>as large as a Womans Conſcience.</hi>—</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Well done Countryman, I find you have a great Vene<g ref="char:EOLhyphen"/>ration for the Female Sex, as well as for their Lottery.—</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>I have ſo; and I think I need not trouble you further about any other Lotteries, being well ſatisfied about them; however ſince you are ſo free with me, I'll beg your Informa<g ref="char:EOLhyphen"/>tion about 3 or 4 more, and ſo conclude.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Which of the Lotteries ſhall devour <hi>your Hoggs and your Hay?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Prethee, Cit, leave off bantering your Friends, and let us talk ſeriouſly of the Matter; and let us run through the whole ſmall Fry of Lotteries.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>That's a work of ſome difficulty I will aſſure you Neighbour <hi>Spriggins,</hi> for we can no ſooner have done with one, but another ſtarts up in his place, Muſhroon-like, of a Nights growth, and ſtares the World in the Face as if it came for a Publick Good, when it is altogether for their private In<g ref="char:EOLhyphen"/>tereſt.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>They may think ſo, Cit, but from what you have ſaid, I dare be bold to ſay they will not find it ſo.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Unleſs you <hi>Hatfield</hi>-Bumkins will bring all the <hi>Hoggs and Hay in your whole Pariſh to venture with them.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Two words to that bargain; but pray what other ſmall Lotteries is there at preſent got abroad?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Faith, ſo many of them abroad, and ſuch Tricks and Deviſes amongſt them, to hook in their Adventurers, that it will be impoſſible to tell you half their Stratagems—</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Let us run through them and juſt name their Titles for I think thoſe Lotteries not worth ſpending time upon which
+<pb n="20" facs="tcp:35931:14"/>are ſo lately ſet on Foot; and inconſiderable too into the bar<g ref="char:EOLhyphen"/>gain.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Then you will find in ſome Coffee-houſes about Town who make it their buſineſs to receive all Griſts that comes to their Mill. A Three-half-penny Lottery, called 300 <abbr>
+                        <hi>l.</hi>
+                     </abbr> for three Half-pence, or a New Adventure; the whole is but for 1800 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and neither is there named Truſtee or Caſheer, and but 4 places procured as yet to take in their Books; it is much like thoſe Muſhroons of a Nights growth we was talking of before—</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>You have ſaid enough of that; pray go forward—</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>The next is a Two-Penny Lottery for a Guinea-Cake, which is ſo much like Childrens playing at Puſh-pin that I ſhall ſay no more of it—</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>A meer Trifle.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Then there is a Hat-Lottery for 10 <abbr>
+                        <hi>s.</hi>
+                     </abbr> each Ticket, where<g ref="char:EOLhyphen"/>in the Adventurer will be ſure to have a Cloth or Carolina-Hat, as it is called in the Propoſal; but the value I leave to Hat-Makers and Haberdaſhers to inform you; and by chance may have two Beavers for your 10 <abbr>
+                        <hi>s.</hi>
+                     </abbr> being 5 Lots of two Beavers each as the higheſt Prizes: All I can ſay in this Matter is that the Haberdaſher will take 1000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> for 2000 Tickets he propoſes to deliver out, which is an excellent way of forcing on a Trade—</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>What more Money-Lotteries is there?—</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Why there is ſeveral, partly Money and partly Houſes; as firſt a Twelve-penny Lottery for 5 new Brick-houſes at St. <hi>Giles</hi>'s on Leaſe, and their value made up in Money 1500 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Beſides which there is a Twelve-penny Lottery with five Balls for the Sum of a 1000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> in the whole made into a Thouſand Prizes; likewiſe a <hi>Norwich</hi>-Lottery for 12 <abbr>
+                        <hi>d.</hi>
+                     </abbr> and another at <hi>York</hi> for 12 <abbr>
+                        <hi>d.</hi>
+                     </abbr> in Houſes and Money; all theſe Twelve-penny Lotteries I ſay, are at preſent on the Wheels moving to try what Fiſh they can catch in their Nets.</p>
+               </sp>
+               <pb n="21" facs="tcp:35931:14"/>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>In good Faith! a fine handſome parcel of them, and I doubt not but all's Fiſh that comes to their Net; pray what is obſervable in them?—</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>To the firſt about St. <hi>Giles</hi>'s Houſes; let every Adventu<g ref="char:EOLhyphen"/>rer take care of his Title where there is Land or Houſes, but their Sum is ſo ſmall not worth our further Cognizance.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Well Cit, what is your Opinion of the Balls Twelve-Penny Lottery?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>We ſhall have occaſion hereafter for a larger Diſcourſe on that Head in the <hi>Hopeful Adventure revived and improved,</hi> being likewiſe drawn with Balls, and is propoſed for 20000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> by 20000 Tickets to be delivered out at 20 <abbr>
+                        <hi>s.</hi>
+                     </abbr> each</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>However give me ſome ſlight account of it. Now—</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Then take notice that there may be a great Fallacy in the Balls, and I adviſe the Adventurers to demand the Balls to be ſawed; every Ball in 4 pieces after the Lottery is drawn, which every Undertaker ought to do for ſatisfaction of his Adventurers.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>I think it very reaſonable what you propoſe—</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Then further I adviſe the preſent Adventurers to pitch upon two Gentlemen ſort of Men out of the Croud of Ad<g ref="char:EOLhyphen"/>venturers to go up to the Engine to ſee all diſputable Balls fair<g ref="char:EOLhyphen"/>ly managed, and that the right Number be conſtantly called, which is the main Point, for you have no Number'd Tickets filed as in other Lotteries to ſatisfy all abſent Adventurers or others to have recourſe to the File. But hear the Cryers Decla<g ref="char:EOLhyphen"/>ration regiſtred is all the Juſtification and Satisfaction you can receive in this manner of drawing.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>In troth I think you have given very good and whole<g ref="char:EOLhyphen"/>ſom advice.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>And for their odds I will treat of that when come to the other Balls Lottery, the <hi>Hopeful Adventure.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Pray what are the two Country Lotteries <hi>Norwich</hi> and <hi>York?</hi>
+                  </p>
+               </sp>
+               <pb n="22" facs="tcp:35931:15"/>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>For that of <hi>Norwich</hi> I never ſaw any of their Propoſals but only read it in the common Advertiſement; and therefore can ſay nothing for or againſt that Lottery.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Pray have you ſeen the <hi>York</hi> Propoſal?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Yes that I have, and I find the Country-Undertakers have as large Conſciences (as you call it) as thoſe in <hi>London.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Pray what does he pay, and what receive, and what odds of Blanks to a Prize, as by our former Method?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Then pray obſerve this Worthy Country-Undertaker propoſes to deliver out 60000 Tickets at 12 <abbr>
+                        <hi>d.</hi>
+                     </abbr> each, which makes 3000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and draws 281 Benefits, two whereof is to be in Houſes in <hi>York</hi> City, valued at 1400 <abbr>
+                        <hi>l.</hi>
+                     </abbr> which I doubt not, but that is a topping price for them too; and for the other 1600 <abbr>
+                        <hi>l.</hi>
+                     </abbr> the Undertaker puts 1200 <abbr>
+                        <hi>l.</hi>
+                     </abbr> of it into 279 Money Prizes, and ſinks the other 400 <abbr>
+                        <hi>l.</hi>
+                     </abbr> clear to himſelf; and be<g ref="char:EOLhyphen"/>ſides all this the Fortunate are to pay this Country-<hi>Vertuoſo</hi>-Undertaker 5 <hi>per Cent.</hi> out of their Prizes, as well from the two Houſe-Benefits after the rate of 1400 <abbr>
+                        <hi>l.</hi>
+                     </abbr> for them, (whe<g ref="char:EOLhyphen"/>ther they are worth it or not) as likewiſe from the 1200 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Money Prizes which comes to 130 <abbr>
+                        <hi>l.</hi>
+                     </abbr> more, ſo his Profit is 530 <abbr>
+                        <hi>l.</hi>
+                     </abbr> beſides the advantage of Sale of his Houſes.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>What is that in the Pound Rate, and what odds of Blanks againſt a Prize?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>It is 3 <abbr>
+                        <hi>s.</hi>
+                     </abbr> 6 <abbr>
+                        <hi>d.</hi>
+                     </abbr> in the Pound Profit beſides what he gets in his Houſes, and the odds is 213 Blanks to a Prize.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Then I find the Country Folk are not a Whit behind you <hi>Londoners,</hi> —But pray have you any more of this ſmall Fry as you call them?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Yes there is three new Penny Lotteries, all ſpick and ſpan new, juſt come out of the Mint; I have not time to ſay much about them, but only name the Titles of them, <hi>&amp;c.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Do but that and it will be ſufficient—</p>
+               </sp>
+               <pb n="23" facs="tcp:35931:15"/>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Well Neighbour <hi>Spriggins,</hi> for your further ſatisfaction, I'll tell you, one is called <hi>Fortunatus,</hi> or an Adventure of 1000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> for a Penny; the ſecond is called the <hi>Triple Penny-Lottery;</hi> and the third is called <hi>Fifty Pound a Year for a Penny:</hi> Theſe are their Titles.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Why really theſe are lumping Pennyworths; but the Cream of the Jeſt will be to know how to come at them.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Nay indeed my opinion is, that it is beyond <hi>Fortunatus</hi>'s Cap.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Why ſo? You know that's a very lucky Cap.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Ay, but that's beyond his Cap to get where it is not to be had: for you muſt take notice theſe diminutive Lotteries are but juſt creept abroad, and can ſcarce ſee, being like P—s not nine days old; and I ſay this is not a time of day to ſet up new Lotteries, the heat of that Trade is over.—</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Is there any thing obſervable in them extraordinary to induce Adventurers to come in?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>No, nothing, unleſs it be that they get as much Money by their Lotteries as their Neighbours; and that one of them would make the World believe that his is a charitable Lottery in imitation of the <hi>Greenwich</hi>-Hoſpital charitable Adventure: But Neighbour <hi>Spriggins</hi> you will find at bottom that both their Charities begins at home—</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Prethee, Cit, which of them is it, and what does he pro<g ref="char:EOLhyphen"/>poſe?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>It is the laſt, called 50 <hi>
+                        <abbr>l.</abbr> per Ann.</hi> for a Penny, by Houſes on Leaſe, wherein he tells all the Overſeers in the Bills of Mortallity that for the good of the Poor, and for the uſe of them every Pariſh ſhall have ſix Tickets given then <hi>Gratis,</hi> and deſires the Overſeers to call accordingly for them at the Book-keepers—that cuts out his Tickets.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>A noble Gift! and I warrant you he expects that theſe Overſeers ſhould lay out as many Six-pences or Shillings in his Lottery for themſelves as he gives them Tickets for the
+<pb n="24" facs="tcp:35931:16"/>Poor, and then tell me who hath got the beſt end of <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>I am much of your Opinion, it is what the Under<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> expects, and if he ſhould be baulked in it, he won't do <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> A— much harm in the great Gift; and ſo much for theſe Penny-Lotteries—</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Have you any more, Cit, of this ſmall Fry as you call it?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>No; none at all of that Stamp, but we are promiſed one from Mr. <hi>Conwallis,</hi> and when it comes out I'll crow'd that ſmall Muſhroon-Lottery with what is obſervable amongſt the great ones in my ſecond part of this deſign'd Diſcourſe on Lotteries; for I find they will ſwell too big for the narrow Compaſs, I deſign to publiſh this; I will only name them I ſhall then treat upon.—</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Pray let me know their Titles—</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Then the firſt will be the Land-Lottery for 50000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> at 5 <abbr>
+                        <hi>s.</hi>
+                     </abbr> each Ticket; the next ſhall be the Lottery, called 12000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> for one, a 5 <abbr>
+                        <hi>s.</hi>
+                     </abbr> Lottery for 30000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> a third is a 20 <abbr>
+                        <hi>s.</hi>
+                     </abbr> Lot<g ref="char:EOLhyphen"/>tery called the <hi>Hopeful Adventure</hi> revived, drawn with Balls for 20000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> The fourth the Charitable Lottery for 5 <abbr>
+                        <hi>s.</hi>
+                     </abbr> each Ticket, for 25000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> and 20 <abbr>
+                        <hi>s.</hi>
+                     </abbr> each Ticket for 100000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> a fifth for a Guinea each Ticket, for a parcel of Books called an <hi>Addreſs to the Learned:</hi> a ſixth a Guinea each Ticket in a Lottery called the <hi>Golden Fleece,</hi> for 50000 Guineas: the ſe<g ref="char:EOLhyphen"/>venth is Mr. <hi>Neale</hi>'s Lottery a Guinea each Ticket, and it is for 20000 <abbr>
+                        <hi>l.</hi>
+                     </abbr> Beſides all theſe there are Dice Lotteries, with 6 Dice, and the Royal Oak Lottery, both which are by Authority from the Government, and licenſed by Pattent, or otherwiſe. Theſe are the Lotteries. I ſhall compoſe my next part of this Diſcourſe with ſuch Remarks reaſonable to be made upon them; recommending the growing of theſe ill Habits to the Legiſlators of the Nation to put a ſtop to the ſame.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>A fine hopeful parcel of them indeed, nay and for great Gobbets too, which is no ſign of hard Times and dull Trading, as you at firſt was talking of; but what are thoſe Legiſlators you deſign to recommend your next part to—</p>
+               </sp>
+               <pb n="25" facs="tcp:35931:16"/>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Bumpkin, don't you know them? they are our <gap reason="illegible" resp="#UOM" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>w-makers, the Houſe of Commons, in whoſe Power it is to put a ſtop to theſe growing Evils, and for to occaſion Money to circulate in a more noble manner; but more of that in my next Part.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>But what muſt become of all theſe Lotteries then? if a ſtop ſhould be put to them that there is not time to fill them by having their Billets cut out.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>No, never trouble your ſelf, time or not time, I dare be bold to ſay not three of them will ever be drawn full.</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>But what muſt be the Conſequence then both in relati<g ref="char:EOLhyphen"/>on to the Undertakers, and likewiſe to the Adventurers?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Why; that the Concluſion of all theſe Lotteries muſt of conſequence fall under theſe four Heads. —Either firſt the Undertakers muſt refund the Adventurers Money received and fit down at ſeveral hundreds of Pounds loſs out of Pocket ges—</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>That they will never do, but pray proceed to the next.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Or that ſecondly, they muſt draw their Lotteries a fourth, an eighth or ſixteenth part full, not ſufficient to reimburſe their paſt Charges and thoſe to come on drawing, which will be ve<g ref="char:EOLhyphen"/>ry conſiderable—</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>That's very poor buſineſs, I wonder there is ſo many Perſons abroad ſo mad to ſet up theſe Lotteries now a days! no doubt it muſt be for want of Conſideration! but pray go on to the next.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Or that thirdly, the Undertakers of all theſe Lotteries do agree and ſink them all (which I think is about five or ſix and Twenty) into two or three of the beſt of them to the Adventurer, by means whereof all theſe unadviſed Underta<g ref="char:EOLhyphen"/>kers will ſave their Charges and Credit too; and the Adven<g ref="char:EOLhyphen"/>turer will be much better ſatisfied with the tryal of his For<g ref="char:EOLhyphen"/>tune in ſome of the beſt Lotteries, and thoſe too drawn com<g ref="char:EOLhyphen"/>pleatly full.</p>
+               </sp>
+               <pb n="28" facs="tcp:35931:17"/>
+               <p>
+                  <gap reason="missing" extent="2 pages">
+                     <desc>〈2 pages missing〉</desc>
+                  </gap> and ſome few in the Twelve-penny Lottery the <hi>Hon<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> 
+                     <g ref="char:V">Ʋ</g>ndertaking,</hi> and the Six-penny Lottery the <hi>Trible Chanc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> when their Advantage is ſo great above others.</p>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Thoſe that take out their Tickets, are either their own particular Friends or unthinking Perſons, that run hand over head without conſulting their Intereſt when they may have a Chance in a better Lottery; the <hi>Ladies Invention</hi> (you may ſtill ſee that is the beſt of all the Bunch) and all things with a ſeeming fairneſs, both to their Propoſals and Engine already made.—</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>Have you ſeen it then, Cit?</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Yes I have, and all things appears ſo fair, and all their Tranſaction is ſo viſible to the Spectators, that it will be im<g ref="char:EOLhyphen"/>poſſible to put any Fallacy upon the Adventurers in their draw<g ref="char:EOLhyphen"/>ing.—</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>But what think you of this Land and Houſes, and partly Money Prizes.</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Their Title, their Title Neighbour <hi>Spriggins,</hi> and their value is what I would be at; and yet I muſt do the <hi>York</hi>-Lotte<g ref="char:EOLhyphen"/>ry that Juſtice, that they have made out their Title the beſt of any Lotteries of that nature, and propoſes the beſt Method as a Satisfaction to the Adventurers, which is to depoſite into two of his Truſtees Hands what the Houſes are valued at by the Undertaker, and Counſel's Opinion to the Title; and if it happen that any difficulty ariſes about the Title, the Truſtees then ſhall pay to the Fortunate Adventurer the Money ſo de<g ref="char:EOLhyphen"/>poſited in their Hands for that purpoſe—</p>
+               </sp>
+               <sp>
+                  <speaker>H.</speaker>
+                  <p>I wiſh the five Shillings Land Lottery would do the ſame. And then—</p>
+               </sp>
+               <sp>
+                  <speaker>J.</speaker>
+                  <p>Hold, hold, your breaking into the ſecond part of this Diſcourſe as I promiſed to give you in ſome few days, and told you I would begin with that Land Lottery. Therefore our further diſcourſe on that Subject we will defer till then; and ſo Neighbour <hi>Spriggins</hi> till our next Meeting, I bid you <hi>Farewel.</hi>
+                  </p>
+               </sp>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
